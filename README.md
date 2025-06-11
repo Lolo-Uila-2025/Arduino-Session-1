@@ -1,1 +1,2 @@
-# Arduino-Session-1
+# Session-1-Arduino
+This repository contains the projects that were created during Session 1.
